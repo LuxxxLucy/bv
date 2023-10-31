@@ -19,20 +19,28 @@ $ cargo run --release --bin va-img -- <path-to-input> <output.png>
 ## Results on some fonts
 
 ### On a simple `en` small font
+
 ![Qanelas Soft Demo](./asset/qanelas-soft-extra-bold.png)
+
+(QanelasSoftDemo)
 
 ### On more complete fonts
 ![Roboto-regular](./asset/qanelas-soft-extra-bold.png)
 ![iosevka](./asset/sf-mono-regular.png)
 ![SF Mono](./asset/sf-mono-regular.png)
 
+(left to right: Roboto, iosevka, SF Mono)
+
 ### On patched (Nerd) font
 ![CommitMono Nerd](./asset/commit-mono-regular.png)
 ![LigaSF Nerd](./asset/ligaSFNerd-regular.png)
+
+(left to right: CommitMono Nerd, LigaSF Nerd)
 
 ### On some Chinese fonts
 
 ![FZLTZHK 方正兰亭中黑](./asset/lanting.png)
 ![FZXBSFW 方正小标宋繁体](./asset/FZXBSFW.png)
 
+(left to right: FZLTZHK 方正兰亭中黑, FZXBSFW  方正小标宋繁体)
 
